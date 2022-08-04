@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emndc
 - 👀 I’m interested in machine learning and crypto
-- 🌱 I’m currently learningPython
+- 🌱 I’m currently learning Python
 - 📫 How to reach me emndc@hotmail.com
 
 <!---
