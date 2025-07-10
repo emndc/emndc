@@ -1,0 +1,25 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# 3D Design temporary files
+*.3mf
+*.amf
+*.obj~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Build artifacts (keep STL files as they are deliverables)
+# *.stl - We want to keep STL files as they are the main deliverable
+
+# Logs
+*.log
